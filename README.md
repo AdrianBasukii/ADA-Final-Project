@@ -1,5 +1,5 @@
 # ADA-Final-Project
-
+<br>
 ## Notes
 1. Code for testing the performance of algorithms is inside main.py
 2. In this file:
@@ -16,8 +16,8 @@ The rules of this game are quite simple. The player is a hunter who is trying to
 <br>
 
 ## Controls
-W - Up
-A - Left
-S - Down
-D - Right
+W - Up<br>
+A - Left<br>
+S - Down<br>
+D - Right<br>
 Space - Start Game
